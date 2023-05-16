@@ -1,6 +1,4 @@
 JACQUES KAFACK IA enginer
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 This is me, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
